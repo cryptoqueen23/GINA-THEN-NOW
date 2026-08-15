@@ -229,3 +229,7 @@ footer{padding:35px 7vw;background:#111;color:#eee;font-size:12px;text-align:cen
 .compare th{background:var(--blue)}
 .sourceList a:hover{border-color:var(--blue)}
 footer{background:#0a0b0d}
+
+/* Resilient static compare/vote fallbacks: content remains visible even if JS is blocked. */
+.trail-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}.trail-grid>div{border:1px solid currentColor;padding:14px}.trail-grid p{margin:.5rem 0 0}.static-fallback{visibility:visible}
+@media(max-width:900px){.trail-grid{grid-template-columns:1fr}.tableWrap{overflow-x:auto;-webkit-overflow-scrolling:touch}.tableWrap table{min-width:1050px}}
