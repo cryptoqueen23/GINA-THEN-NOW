@@ -296,3 +296,10 @@ footer{background:#0a0b0d}
 #record2025 .claim-actions a{
   color:var(--blue);
 }
+
+/* FINAL 2025 VISIBILITY OVERRIDE */
+#record2025,#record2025.record2025-light{background:#f7f2e8!important;color:#000!important}
+#record2025 *,#record2025 p,#record2025 h2,#record2025 h3,#record2025 .lede,#record2025 .sectionHead p,#record2025 .sectionHead h2,#record2025 .card,#record2025 .card p,#record2025 .card h3{color:#000!important;opacity:1!important;visibility:visible!important}
+#record2025 .card{background:#fff!important;border:2px solid #111!important}
+#record2025 .sectionHead>span{color:#0052ff!important}
+#record2025 .claim-actions a{color:#003dcc!important;background:#fff!important;text-decoration:underline!important}
