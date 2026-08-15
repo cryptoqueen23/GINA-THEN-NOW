@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "subject": "Gina Hinojosa",
+    "purpose": "Secondary-source research index for the Gina Hinojosa Then & Now archival website.",
+    "generated": "2026-08-15",
+    "ballotpedia_profile": "https://ballotpedia.org/Gina_Hinojosa",
+    "ballotpedia_saved_html_source": "Pasted text(20260815-184619).txt",
+    "wayback_saved_html_source": "Wayback Machine - Calendar of https___ginafortexas.com_.html",
+    "campaign_saved_html_source": "Gina Hinojosa for Texas Governor _ Official Campaign Website.html",
+    "public_site_rule": "Do not republish Ballotpedia HTML, scripts, styling, images, or page assets. Use it as a secondary research index and link to original sources.",
+    "verification_standard": "Secondary sources identify leads. A vote is published as VERIFIED only after the member’s individual status is confirmed in an official Texas House Journal or equivalent official House record.",
+    "vote_smart_saved_html_source": "Vote Smart - Facts For All.html",
+    "official_house_saved_html_source": "Official Home Page of the Texas House of Representatives Website for Rep. Hinojosa, Gina..html",
+    "texas_state_directory_saved_html_source": "Rep. Gina Hinojosa - Texas State Directory Online.html",
+    "key_vote_target": "Approximately 100–250 curated high-salience records across 2017–2026, expanded in verification tranches."
+  },
+  "wayback_inventory": {
+    "domain": "https://ginafortexas.com/",
+    "saved_times": 57,
+    "first_capture": "2018-08-07",
+    "last_capture_in_supplied_calendar": "2026-08-14",
+    "first_capture_url": "https://web.archive.org/web/20180807071546/https://ginafortexas.com/",
+    "last_capture_url": "https://web.archive.org/web/20260814062207/https://ginafortexas.com/",
+    "note": "Wayback crawl dates show capture availability, not necessarily website update dates."
+  },
+  "campaign_position_snapshots": [
+    {
+      "date": "2016",
+      "source": "Ballotpedia saved profile quoting/characterizing campaign themes",
+      "source_type": "secondary",
+      "topics": [
+        "Education funding",
+        "Campus carry",
+        "Reproductive rights"
+      ],
+      "verification_status": "secondary_source_preservation"
+    },
+    {
+      "date": "2026-01-14",
+      "source": "Ballotpedia saved profile quoting Gina Hinojosa campaign website",
+      "source_type": "secondary_preservation_of_campaign_site",
+      "topics": [
+        "Quality and Accessible Healthcare for All Texans",
+        "An Affordable Texas that Works for Everyone",
+        "Back-to-Basics Education"
+      ],
+      "verification_status": "secondary_source_preservation"
+    },
+    {
+      "date": "2026-08-15",
+      "source": "Saved current campaign homepage",
+      "source_type": "campaign_primary",
+      "topics": [
+        "Save Texas Public Schools",
+        "Money in Your Pocket",
+        "Data Centers"
+      ],
+      "verification_status": "saved_primary_campaign_page"
+    }
+  ],
+  "scorecard_inventory": [
+    {
+      "year": 2025,
+      "organization": "Christian Employers Alliance",
+      "topic": "Conservative / limited government",
+      "url": "https://www.bbindex.org/lawmakers?state=TX&year=2025",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Club for Growth Foundation",
+      "topic": "Economy / business",
+      "url": "https://clubforgrowthfoundation.org/wp-content/uploads/securepdfs/2025/12/2025-Texas-Economic-Scorecard-FINAL.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/sites/default/files/2025-12/sierra_club_2025_texas_legislative_scorecard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2025-index/texas-house/legislators",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2025-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "The Freedom Index",
+      "topic": "Limited government / constitutional principles",
+      "url": "https://freedomindex.us/tx/report/203/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/sites/default/files/2023-12/2023_Texas_Legislative_Scorecard_SierraClub_6Dec2023Update.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2023-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2023-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard-2023/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2023",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Club for Growth Foundation",
+      "topic": "Economy / business",
+      "url": "https://clubforgrowthfoundation.org/wp-content/uploads/2019/10/2021-Texas-Economic-Scorecard-FINAL.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "National Federation of Independent Business",
+      "topic": "Small business",
+      "url": "https://assets.nfib.com/nfibcom/Texas-Voting-Record-06-29-2021-FINAL.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/texas/2021-texas-legislative-scorecard",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2021-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2021-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/wp-content/uploads/2021/12/TX-Values-Scorecard-handout-2021.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2021",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Club for Growth Foundation",
+      "topic": "Economy / business",
+      "url": "https://clubforgrowthfoundation.org/wp-content/uploads/2019/10/Texas-Scorecard-SP-FINAL-10-25.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Environment Texas",
+      "topic": "Environment / public health",
+      "url": "https://environmentamerica.org/texas/wp-content/uploads/2022/08/2019_scorecard_04d.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2019-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2019-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texas Eagle Forum",
+      "topic": "Conservative issues",
+      "url": "https://9159a59c-8ed3-4289-9caa-f151a29859a2.filesusr.com/ugd/400030_c16434317d77433cada4d86d525e7ae8.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard-2019/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2019",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Conservative Roundtable",
+      "topic": "Conservative principles",
+      "url": "https://web.archive.org/web/20181127040001/https://www.conservativeroundtableoftexas.com/wp-content/uploads/2017/10/2017-Conservative-Effectiveness-Index.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Environment Texas",
+      "topic": "Environment / public health",
+      "url": "https://environmentamerica.org/texas/wp-content/uploads/2022/08/TXE_2017_scorecard_04.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "National Federation of Independent Business",
+      "topic": "Small business",
+      "url": "https://web.archive.org/web/20221109090948/https://www.nfib.com/assets/Texas2017_VR_FINAL-1.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/sites/www.sierraclub.org/files/sce/lone-star-chapter/CHP-TX-1900-2017-Legislative-Scorecard-Low-Res.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2017-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2017-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texans for Vaccine Choice",
+      "topic": "Vaccine policy",
+      "url": "https://web.archive.org/web/20180605084005/https://texansforvaccinechoice.com/online/score-cards-85-2017/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard-2017/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2017",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    }
+  ],
+  "years_with_no_scorecards_listed_on_saved_ballotpedia_page": [
+    2018,
+    2020,
+    2022,
+    2024
+  ],
+  "sponsored_legislation_leads": [
+    {
+      "bill": "HB 1",
+      "description": "Relating to youth camp emergency plans and preparedness; authorizing penalties.",
+      "last_action": "2025-09-05: Effective immediately",
+      "source": "Saved Ballotpedia profile / BillTrack50 display",
+      "verification_status": "research_lead_only"
+    },
+    {
+      "bill": "HB 27",
+      "description": "Relating to courses in personal financial literacy for high school students in public schools.",
+      "last_action": "2025-06-20: Effective immediately",
+      "source": "Saved Ballotpedia profile / BillTrack50 display",
+      "verification_status": "research_lead_only"
+    },
+    {
+      "bill": "HB 1851",
+      "description": "Relating to disposition of certain surplus motor vehicles and law enforcement equipment to certain school districts.",
+      "last_action": "2025-06-20: Effective 2025-09-01",
+      "source": "Saved Ballotpedia profile / BillTrack50 display",
+      "verification_status": "research_lead_only"
+    }
+  ],
+  "verified_crosschecks": [
+    {
+      "id": "89R-SB37-R4104",
+      "session": "89R",
+      "date": "05/31/2025",
+      "bill": "SB 37",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "4104",
+      "source_url": "https://journals.house.texas.gov/HJRNL/89R/HTML/89RDAY79FINAL.HTM",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=SB37",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "89R-SB10-R3503",
+      "session": "89R",
+      "date": "05/25/2025",
+      "bill": "SB 10",
+      "category": "Religious Issues",
+      "hinojosa_vote": "no",
+      "record_number": "3503",
+      "source_url": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY73FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=SB10",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "89R-SB2-R300",
+      "session": "89R",
+      "date": "04/17/2025",
+      "bill": "SB 2",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "300",
+      "source_url": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY46FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=SB2",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "89R-HB2-R303",
+      "session": "89R",
+      "date": "04/17/2025",
+      "bill": "HB 2",
+      "category": "Education",
+      "hinojosa_vote": "yes",
+      "record_number": "303",
+      "source_url": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY46FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=HB2",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "884-SB4-R48",
+      "session": "884",
+      "date": "11/14/2023",
+      "bill": "SB 4",
+      "category": "Immigration & Border",
+      "hinojosa_vote": "no",
+      "record_number": "48",
+      "source_url": "https://journals.house.texas.gov/HJRNL/884/PDF/88C4DAY05FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=884&Bill=SB4",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-SB17-R1921",
+      "session": "88R",
+      "date": "05/22/2023",
+      "bill": "SB 17",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "1921",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY68FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=SB17",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-SB14-R1688",
+      "session": "88R",
+      "date": "05/15/2023",
+      "bill": "SB 14",
+      "category": "LGBTQ & Gender Policy",
+      "hinojosa_vote": "no",
+      "record_number": "1688",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY63FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=SB14",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-HB900-R351",
+      "session": "88R",
+      "date": "04/20/2023",
+      "bill": "HB 900",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "351",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY45FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=HB900",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-HB2127-R305",
+      "session": "88R",
+      "date": "04/19/2023",
+      "bill": "HB 2127",
+      "category": "Government & Ethics",
+      "hinojosa_vote": "no",
+      "record_number": "305",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY44FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=HB2127",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "872-SB1-R61",
+      "session": "872",
+      "date": "08/27/2021",
+      "bill": "SB 1",
+      "category": "Elections & Voting",
+      "hinojosa_vote": "absent",
+      "record_number": "61",
+      "source_url": "https://journals.house.texas.gov/hjrnl/872/pdf/87C2DAY04FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=872&Bill=SB1",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-HB3979-R982",
+      "session": "87R",
+      "date": "05/11/2021",
+      "bill": "HB 3979",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "982",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY45FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=HB3979",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-SB8-R784",
+      "session": "87R",
+      "date": "05/06/2021",
+      "bill": "SB 8",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "record_number": "784",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY41FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=SB8",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-HB1927-R298",
+      "session": "87R",
+      "date": "04/16/2021",
+      "bill": "HB 1927",
+      "category": "Guns",
+      "hinojosa_vote": "no",
+      "record_number": "298",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY27FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=HB1927",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-HB574-R305",
+      "session": "87R",
+      "date": "04/16/2021",
+      "bill": "HB 574",
+      "category": "Elections & Voting",
+      "hinojosa_vote": "no",
+      "record_number": "305",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY27FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=HB574",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "86R-HB16-R493",
+      "session": "86R",
+      "date": "04/17/2019",
+      "bill": "HB 16",
+      "category": "Abortion",
+      "hinojosa_vote": "present_not_voting",
+      "record_number": "493",
+      "source_url": "https://journals.house.texas.gov/hjrnl/86r/pdf/86RDAY48FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=86R&Bill=HB16",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "85R-SB4-R496",
+      "session": "85R",
+      "date": "04/27/2017",
+      "bill": "SB 4",
+      "category": "Immigration & Border",
+      "hinojosa_vote": "no",
+      "record_number": "496",
+      "source_url": "https://journals.house.texas.gov/hjrnl/85r/pdf/85RDAY58FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=85R&Bill=SB4",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    }
+  ],
+  "vote_smart_vote_leads": [
+    {
+      "id": "votesmart-1",
+      "session": "892",
+      "date": "09/02/2025",
+      "bill": "HB 18",
+      "description": "Prohibits Lawmakers From Accepting Campaign Donation ...",
+      "category": "Government & Ethics",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41318/114525/166708/gina-hinojosa-voted-nay-passage-hb-18-special-session-prohibits-lawmakers-from-accepting-campaign-donations-while-absent-from-an-ongoing-legislative-session#114525",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-2",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "SB 8",
+      "description": "Limits the Use of Restrooms in Cer ...",
+      "category": "LGBTQ & Gender Policy",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage With Amendment",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41330/114590/166708/gina-hinojosa-voted-nay-passage-with-amendment-sb-8-2nd-special-session-limits-the-use-of-restrooms-in-certain-public-buildings-based-on-sex#114590",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-3",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "HB 7",
+      "description": "Increases Restrictions on Abortion Pills",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41316/114519/166708/gina-hinojosa-voted-nay-passage-hb-7-increases-restrictions-on-abortion-pills#114519",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-4",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "HB 7",
+      "description": "Increases Restrictions on Abortion Pills",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41316/115947/166708/gina-hinojosa-voted-nay-passage-hb-7-increases-restrictions-on-abortion-pills#115947",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-5",
+      "session": "892",
+      "date": "08/27/2025",
+      "bill": "HB 25",
+      "description": "Authorizes Ivermectin to be Sold Over-the-Counter",
+      "category": "Health Care",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41314/114508/166708/gina-hinojosa-voted-nay-passage-hb-25-authorizes-ivermectin-to-be-sold-over-the-counter#114508",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    }
+  ],
+  "key_vote_methodology": {
+    "scope": "Curated, not exhaustive.",
+    "selection_criteria": [
+      "statewide public significance",
+      "controversial or high-salience policy",
+      "appearance in scorecards or secondary voting guides",
+      "unusual vote status or cross-cutting result",
+      "direct relevance to documented campaign positions",
+      "usefulness for comparing legislative action with public messaging"
+    ],
+    "verification_rule": "Official Texas House record controls. Secondary sources remain leads until cross-checked.",
+    "non_inference_rule": "Do not infer a yes/no vote from party, sponsorship, absence, attendance, committee membership, or voice votes."
+  },
+  "key_vote_research_queue": [
+    {
+      "session": "85R",
+      "bill": "HB 3859",
+      "topic": "Religious liberty / child welfare placements",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience 2017 social-policy legislation; verify individual House record before publication."
+    },
+    {
+      "session": "86R",
+      "bill": "SB 2",
+      "topic": "Property-tax reform",
+      "status": "RESEARCH_LEAD",
+      "reason": "Major 2019 tax legislation; identify final House record and Hinojosa vote."
+    },
+    {
+      "session": "86R",
+      "bill": "SB 22",
+      "topic": "Government transactions with abortion providers",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience reproductive-policy legislation; verify official House record."
+    },
+    {
+      "session": "87R",
+      "bill": "HB 3",
+      "topic": "Election integrity / election administration",
+      "status": "RESEARCH_LEAD",
+      "reason": "Major 2021 election bill; reconcile session actions and any individual Hinojosa record."
+    },
+    {
+      "session": "873",
+      "bill": "SB 6",
+      "topic": "Congressional redistricting",
+      "status": "RESEARCH_LEAD",
+      "reason": "Major redistricting legislation; verify House roll-call and member status."
+    },
+    {
+      "session": "88R",
+      "bill": "SB 15",
+      "topic": "College athletics and sex-based participation",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience gender/higher-education policy; verify official House vote."
+    },
+    {
+      "session": "89R",
+      "bill": "SB 12",
+      "topic": "Public school parental rights / instruction policy",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience education/social-policy bill; verify whether Hinojosa cast an individual final vote or was absent."
+    },
+    {
+      "session": "892",
+      "bill": "HB 18",
+      "topic": "Campaign donations / legislative absence",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Vote Smart lead already displayed; locate certified House record."
+    },
+    {
+      "session": "892",
+      "bill": "SB 8",
+      "topic": "Restroom use in public buildings",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Vote Smart lead already displayed; locate certified House record."
+    },
+    {
+      "session": "892",
+      "bill": "HB 7",
+      "topic": "Abortion pills",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Two Vote Smart action records already displayed; determine exact official record numbers/stages."
+    },
+    {
+      "session": "892",
+      "bill": "HB 25",
+      "topic": "Ivermectin over-the-counter",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Vote Smart lead already displayed; locate certified House record."
+    }
+  ]
+}
