@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "subject": "Gina Hinojosa",
+    "purpose": "Secondary-source research index for the Gina Hinojosa Then & Now archival website.",
+    "generated": "2026-08-15",
+    "ballotpedia_profile": "https://ballotpedia.org/Gina_Hinojosa",
+    "ballotpedia_saved_html_source": "Pasted text(20260815-184619).txt",
+    "wayback_saved_html_source": "Wayback Machine - Calendar of https___ginafortexas.com_.html",
+    "campaign_saved_html_source": "Gina Hinojosa for Texas Governor _ Official Campaign Website.html",
+    "public_site_rule": "Do not republish Ballotpedia HTML, scripts, styling, images, or page assets. Use it as a secondary research index and link to original sources.",
+    "verification_standard": "Individual votes enter hinojosa-votes.json only after confirmation against Texas Legislature Online or a certified Texas House Journal.",
+    "vote_smart_saved_html_source": "Vote Smart - Facts For All.html",
+    "official_house_saved_html_source": "Official Home Page of the Texas House of Representatives Website for Rep. Hinojosa, Gina..html",
+    "texas_state_directory_saved_html_source": "Rep. Gina Hinojosa - Texas State Directory Online.html"
+  },
+  "wayback_inventory": {
+    "domain": "https://ginafortexas.com/",
+    "saved_times": 57,
+    "first_capture": "2018-08-07",
+    "last_capture_in_supplied_calendar": "2026-08-14",
+    "first_capture_url": "https://web.archive.org/web/20180807071546/https://ginafortexas.com/",
+    "last_capture_url": "https://web.archive.org/web/20260814062207/https://ginafortexas.com/",
+    "note": "Wayback crawl dates show capture availability, not necessarily website update dates."
+  },
+  "campaign_position_snapshots": [
+    {
+      "date": "2016",
+      "source": "Ballotpedia saved profile quoting/characterizing campaign themes",
+      "source_type": "secondary",
+      "topics": [
+        "Education funding",
+        "Campus carry",
+        "Reproductive rights"
+      ],
+      "verification_status": "secondary_source_preservation"
+    },
+    {
+      "date": "2026-01-14",
+      "source": "Ballotpedia saved profile quoting Gina Hinojosa campaign website",
+      "source_type": "secondary_preservation_of_campaign_site",
+      "topics": [
+        "Quality and Accessible Healthcare for All Texans",
+        "An Affordable Texas that Works for Everyone",
+        "Back-to-Basics Education"
+      ],
+      "verification_status": "secondary_source_preservation"
+    },
+    {
+      "date": "2026-08-15",
+      "source": "Saved current campaign homepage",
+      "source_type": "campaign_primary",
+      "topics": [
+        "Save Texas Public Schools",
+        "Money in Your Pocket",
+        "Data Centers"
+      ],
+      "verification_status": "saved_primary_campaign_page"
+    }
+  ],
+  "scorecard_inventory": [
+    {
+      "year": 2025,
+      "organization": "Christian Employers Alliance",
+      "topic": "Conservative / limited government",
+      "url": "https://www.bbindex.org/lawmakers?state=TX&year=2025",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Club for Growth Foundation",
+      "topic": "Economy / business",
+      "url": "https://clubforgrowthfoundation.org/wp-content/uploads/securepdfs/2025/12/2025-Texas-Economic-Scorecard-FINAL.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/sites/default/files/2025-12/sierra_club_2025_texas_legislative_scorecard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2025-index/texas-house/legislators",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2025-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2025,
+      "organization": "The Freedom Index",
+      "topic": "Limited government / constitutional principles",
+      "url": "https://freedomindex.us/tx/report/203/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/sites/default/files/2023-12/2023_Texas_Legislative_Scorecard_SierraClub_6Dec2023Update.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2023-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2023-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard-2023/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2023,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2023",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Club for Growth Foundation",
+      "topic": "Economy / business",
+      "url": "https://clubforgrowthfoundation.org/wp-content/uploads/2019/10/2021-Texas-Economic-Scorecard-FINAL.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "National Federation of Independent Business",
+      "topic": "Small business",
+      "url": "https://assets.nfib.com/nfibcom/Texas-Voting-Record-06-29-2021-FINAL.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/texas/2021-texas-legislative-scorecard",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2021-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2021-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/wp-content/uploads/2021/12/TX-Values-Scorecard-handout-2021.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2021,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2021",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Club for Growth Foundation",
+      "topic": "Economy / business",
+      "url": "https://clubforgrowthfoundation.org/wp-content/uploads/2019/10/Texas-Scorecard-SP-FINAL-10-25.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Environment Texas",
+      "topic": "Environment / public health",
+      "url": "https://environmentamerica.org/texas/wp-content/uploads/2022/08/2019_scorecard_04d.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2019-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2019-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texas Eagle Forum",
+      "topic": "Conservative issues",
+      "url": "https://9159a59c-8ed3-4289-9caa-f151a29859a2.filesusr.com/ugd/400030_c16434317d77433cada4d86d525e7ae8.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard-2019/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2019,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2019",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Conservative Roundtable",
+      "topic": "Conservative principles",
+      "url": "https://web.archive.org/web/20181127040001/https://www.conservativeroundtableoftexas.com/wp-content/uploads/2017/10/2017-Conservative-Effectiveness-Index.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Environment Texas",
+      "topic": "Environment / public health",
+      "url": "https://environmentamerica.org/texas/wp-content/uploads/2022/08/TXE_2017_scorecard_04.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "National Federation of Independent Business",
+      "topic": "Small business",
+      "url": "https://web.archive.org/web/20221109090948/https://www.nfib.com/assets/Texas2017_VR_FINAL-1.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Sierra Club Texas",
+      "topic": "Environment",
+      "url": "https://www.sierraclub.org/sites/www.sierraclub.org/files/sce/lone-star-chapter/CHP-TX-1900-2017-Legislative-Scorecard-Low-Res.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texans for Fiscal Responsibility",
+      "topic": "Taxes / spending / property",
+      "url": "https://index.texastaxpayers.com/legislative-sessions/2017-index/texas-house/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texans Uniting for Reform & Freedom",
+      "topic": "Taxes / property rights",
+      "url": "https://www.texasturf.org/images/pdf/2017-Session-Reportcard.pdf",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texans for Vaccine Choice",
+      "topic": "Vaccine policy",
+      "url": "https://web.archive.org/web/20180605084005/https://texansforvaccinechoice.com/online/score-cards-85-2017/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texas Right to Life",
+      "topic": "Reproductive policy",
+      "url": "https://texasrighttolife.com/legislative-scores/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "Texas Values Action",
+      "topic": "Social issues",
+      "url": "https://txvaluesaction.org/scorecard-2017/",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    },
+    {
+      "year": 2017,
+      "organization": "The American Conservative Union",
+      "topic": "Conservative issues",
+      "url": "http://ratings.conservative.org/people?level=state&state=TX&year=2017",
+      "source_type": "secondary_scorecard",
+      "verification_use": "research_lead_only"
+    }
+  ],
+  "years_with_no_scorecards_listed_on_saved_ballotpedia_page": [
+    2018,
+    2020,
+    2022,
+    2024
+  ],
+  "sponsored_legislation_leads": [
+    {
+      "bill": "HB 1",
+      "description": "Relating to youth camp emergency plans and preparedness; authorizing penalties.",
+      "last_action": "2025-09-05: Effective immediately",
+      "source": "Saved Ballotpedia profile / BillTrack50 display",
+      "verification_status": "research_lead_only"
+    },
+    {
+      "bill": "HB 27",
+      "description": "Relating to courses in personal financial literacy for high school students in public schools.",
+      "last_action": "2025-06-20: Effective immediately",
+      "source": "Saved Ballotpedia profile / BillTrack50 display",
+      "verification_status": "research_lead_only"
+    },
+    {
+      "bill": "HB 1851",
+      "description": "Relating to disposition of certain surplus motor vehicles and law enforcement equipment to certain school districts.",
+      "last_action": "2025-06-20: Effective 2025-09-01",
+      "source": "Saved Ballotpedia profile / BillTrack50 display",
+      "verification_status": "research_lead_only"
+    }
+  ],
+  "verified_crosschecks": [],
+  "vote_smart_vote_leads": [
+    {
+      "id": "votesmart-1",
+      "session": "892",
+      "date": "09/02/2025",
+      "bill": "HB 18",
+      "description": "Prohibits Lawmakers From Accepting Campaign Donation ...",
+      "category": "Government & Ethics",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41318/114525/166708/gina-hinojosa-voted-nay-passage-hb-18-special-session-prohibits-lawmakers-from-accepting-campaign-donations-while-absent-from-an-ongoing-legislative-session#114525",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-2",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "SB 8",
+      "description": "Limits the Use of Restrooms in Cer ...",
+      "category": "LGBTQ & Gender Policy",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage With Amendment",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41330/114590/166708/gina-hinojosa-voted-nay-passage-with-amendment-sb-8-2nd-special-session-limits-the-use-of-restrooms-in-certain-public-buildings-based-on-sex#114590",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-3",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "HB 7",
+      "description": "Increases Restrictions on Abortion Pills",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41316/114519/166708/gina-hinojosa-voted-nay-passage-hb-7-increases-restrictions-on-abortion-pills#114519",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-4",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "HB 7",
+      "description": "Increases Restrictions on Abortion Pills",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41316/115947/166708/gina-hinojosa-voted-nay-passage-hb-7-increases-restrictions-on-abortion-pills#115947",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-5",
+      "session": "892",
+      "date": "08/27/2025",
+      "bill": "HB 25",
+      "description": "Authorizes Ivermectin to be Sold Over-the-Counter",
+      "category": "Health Care",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41314/114508/166708/gina-hinojosa-voted-nay-passage-hb-25-authorizes-ivermectin-to-be-sold-over-the-counter#114508",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    }
+  ]
+}

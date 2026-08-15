@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "candidate": "Gina Hinojosa",
+    "office": "Texas House of Representatives",
+    "district": "49",
+    "service_start": "2017",
+    "source_name": "Vote Smart leads; Texas Legislature Online and certified Texas House Journals control verified status",
+    "source_domain": "capitol.texas.gov / journals.house.texas.gov",
+    "purpose": "Machine-readable verified voting records for the Gina Hinojosa Then & Now archival website.",
+    "last_updated": "2026-08-15",
+    "status": "secondary-source vote leads loaded; official verification pending",
+    "record_count": 5,
+    "scope_note": "5 individual vote records were extracted from the supplied Vote Smart HTML and are displayed as PENDING OFFICIAL VERIFICATION. They are not represented as verified Texas House records.",
+    "notes": [
+      "Committee votes and House floor votes must be identified separately.",
+      "A vote is never inferred from party, sponsorship, attendance, committee membership, or a voice vote.",
+      "Ballotpedia and scorecards are research leads, not controlling vote records."
+    ],
+    "methodology_url": "#methodology"
+  },
+  "sessions": [
+    {
+      "code": "85R",
+      "label": "85th Legislature - Regular Session",
+      "year": 2017
+    },
+    {
+      "code": "86R",
+      "label": "86th Legislature - Regular Session",
+      "year": 2019
+    },
+    {
+      "code": "87R",
+      "label": "87th Legislature - Regular Session",
+      "year": 2021
+    },
+    {
+      "code": "88R",
+      "label": "88th Legislature - Regular Session",
+      "year": 2023
+    },
+    {
+      "code": "89R",
+      "label": "89th Legislature - Regular Session",
+      "year": 2025
+    },
+    {
+      "code": "891",
+      "label": "89th Legislature - First Called Session",
+      "year": 2025
+    },
+    {
+      "code": "892",
+      "label": "89th Legislature - Second Called Session",
+      "year": 2025
+    }
+  ],
+  "categories": [
+    "Education",
+    "Taxes & Spending",
+    "Immigration & Border",
+    "Elections & Voting",
+    "Guns",
+    "Abortion",
+    "LGBTQ & Gender Policy",
+    "Criminal Justice",
+    "Energy & Environment",
+    "Health Care",
+    "Labor & Employment",
+    "Housing",
+    "Transportation",
+    "Government & Ethics",
+    "Civil Rights",
+    "Technology & Data Centers",
+    "Other"
+  ],
+  "vote_values": [
+    "yes",
+    "no",
+    "present_not_voting",
+    "absent",
+    "paired",
+    "excused",
+    "no_individual_record",
+    "unknown"
+  ],
+  "votes": [
+    {
+      "id": "votesmart-1",
+      "session": "892",
+      "date": "09/02/2025",
+      "bill": "HB 18",
+      "description": "Prohibits Lawmakers From Accepting Campaign Donation ...",
+      "category": "Government & Ethics",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41318/114525/166708/gina-hinojosa-voted-nay-passage-hb-18-special-session-prohibits-lawmakers-from-accepting-campaign-donations-while-absent-from-an-ongoing-legislative-session#114525",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-2",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "SB 8",
+      "description": "Limits the Use of Restrooms in Cer ...",
+      "category": "LGBTQ & Gender Policy",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage With Amendment",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41330/114590/166708/gina-hinojosa-voted-nay-passage-with-amendment-sb-8-2nd-special-session-limits-the-use-of-restrooms-in-certain-public-buildings-based-on-sex#114590",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-3",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "HB 7",
+      "description": "Increases Restrictions on Abortion Pills",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41316/114519/166708/gina-hinojosa-voted-nay-passage-hb-7-increases-restrictions-on-abortion-pills#114519",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-4",
+      "session": "892",
+      "date": "08/28/2025",
+      "bill": "HB 7",
+      "description": "Increases Restrictions on Abortion Pills",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41316/115947/166708/gina-hinojosa-voted-nay-passage-hb-7-increases-restrictions-on-abortion-pills#115947",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    },
+    {
+      "id": "votesmart-5",
+      "session": "892",
+      "date": "08/27/2025",
+      "bill": "HB 25",
+      "description": "Authorizes Ivermectin to be Sold Over-the-Counter",
+      "category": "Health Care",
+      "hinojosa_vote": "no",
+      "vote_type": "Passage",
+      "record_type": "HOUSE FLOOR VOTE (SECONDARY-SOURCE LEAD)",
+      "result": "Passage action as characterized by Vote Smart",
+      "source_name": "Vote Smart",
+      "source_type": "secondary",
+      "source_url": "https://votesmart.org/bill/41314/114508/166708/gina-hinojosa-voted-nay-passage-hb-25-authorizes-ivermectin-to-be-sold-over-the-counter#114508",
+      "verification_status": "PENDING_OFFICIAL_VERIFICATION",
+      "key_vote": true,
+      "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    }
+  ]
+}
