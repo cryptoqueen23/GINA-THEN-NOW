@@ -8,10 +8,11 @@
     "wayback_saved_html_source": "Wayback Machine - Calendar of https___ginafortexas.com_.html",
     "campaign_saved_html_source": "Gina Hinojosa for Texas Governor _ Official Campaign Website.html",
     "public_site_rule": "Do not republish Ballotpedia HTML, scripts, styling, images, or page assets. Use it as a secondary research index and link to original sources.",
-    "verification_standard": "Individual votes enter hinojosa-votes.json only after confirmation against Texas Legislature Online or a certified Texas House Journal.",
+    "verification_standard": "Secondary sources identify leads. A vote is published as VERIFIED only after the member’s individual status is confirmed in an official Texas House Journal or equivalent official House record.",
     "vote_smart_saved_html_source": "Vote Smart - Facts For All.html",
     "official_house_saved_html_source": "Official Home Page of the Texas House of Representatives Website for Rep. Hinojosa, Gina..html",
-    "texas_state_directory_saved_html_source": "Rep. Gina Hinojosa - Texas State Directory Online.html"
+    "texas_state_directory_saved_html_source": "Rep. Gina Hinojosa - Texas State Directory Online.html",
+    "key_vote_target": "Approximately 100–250 curated high-salience records across 2017–2026, expanded in verification tranches."
   },
   "wayback_inventory": {
     "domain": "https://ginafortexas.com/",
@@ -408,7 +409,200 @@
       "verification_status": "research_lead_only"
     }
   ],
-  "verified_crosschecks": [],
+  "verified_crosschecks": [
+    {
+      "id": "89R-SB37-R4104",
+      "session": "89R",
+      "date": "05/31/2025",
+      "bill": "SB 37",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "4104",
+      "source_url": "https://journals.house.texas.gov/HJRNL/89R/HTML/89RDAY79FINAL.HTM",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=SB37",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "89R-SB10-R3503",
+      "session": "89R",
+      "date": "05/25/2025",
+      "bill": "SB 10",
+      "category": "Religious Issues",
+      "hinojosa_vote": "no",
+      "record_number": "3503",
+      "source_url": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY73FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=SB10",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "89R-SB2-R300",
+      "session": "89R",
+      "date": "04/17/2025",
+      "bill": "SB 2",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "300",
+      "source_url": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY46FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=SB2",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "89R-HB2-R303",
+      "session": "89R",
+      "date": "04/17/2025",
+      "bill": "HB 2",
+      "category": "Education",
+      "hinojosa_vote": "yes",
+      "record_number": "303",
+      "source_url": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY46FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=89R&Bill=HB2",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "884-SB4-R48",
+      "session": "884",
+      "date": "11/14/2023",
+      "bill": "SB 4",
+      "category": "Immigration & Border",
+      "hinojosa_vote": "no",
+      "record_number": "48",
+      "source_url": "https://journals.house.texas.gov/HJRNL/884/PDF/88C4DAY05FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=884&Bill=SB4",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-SB17-R1921",
+      "session": "88R",
+      "date": "05/22/2023",
+      "bill": "SB 17",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "1921",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY68FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=SB17",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-SB14-R1688",
+      "session": "88R",
+      "date": "05/15/2023",
+      "bill": "SB 14",
+      "category": "LGBTQ & Gender Policy",
+      "hinojosa_vote": "no",
+      "record_number": "1688",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY63FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=SB14",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-HB900-R351",
+      "session": "88R",
+      "date": "04/20/2023",
+      "bill": "HB 900",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "351",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY45FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=HB900",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "88R-HB2127-R305",
+      "session": "88R",
+      "date": "04/19/2023",
+      "bill": "HB 2127",
+      "category": "Government & Ethics",
+      "hinojosa_vote": "no",
+      "record_number": "305",
+      "source_url": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY44FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=88R&Bill=HB2127",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "872-SB1-R61",
+      "session": "872",
+      "date": "08/27/2021",
+      "bill": "SB 1",
+      "category": "Elections & Voting",
+      "hinojosa_vote": "absent",
+      "record_number": "61",
+      "source_url": "https://journals.house.texas.gov/hjrnl/872/pdf/87C2DAY04FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=872&Bill=SB1",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-HB3979-R982",
+      "session": "87R",
+      "date": "05/11/2021",
+      "bill": "HB 3979",
+      "category": "Education",
+      "hinojosa_vote": "no",
+      "record_number": "982",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY45FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=HB3979",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-SB8-R784",
+      "session": "87R",
+      "date": "05/06/2021",
+      "bill": "SB 8",
+      "category": "Abortion",
+      "hinojosa_vote": "no",
+      "record_number": "784",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY41FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=SB8",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-HB1927-R298",
+      "session": "87R",
+      "date": "04/16/2021",
+      "bill": "HB 1927",
+      "category": "Guns",
+      "hinojosa_vote": "no",
+      "record_number": "298",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY27FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=HB1927",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "87R-HB574-R305",
+      "session": "87R",
+      "date": "04/16/2021",
+      "bill": "HB 574",
+      "category": "Elections & Voting",
+      "hinojosa_vote": "no",
+      "record_number": "305",
+      "source_url": "https://journals.house.texas.gov/hjrnl/87r/pdf/87RDAY27FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=87R&Bill=HB574",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "86R-HB16-R493",
+      "session": "86R",
+      "date": "04/17/2019",
+      "bill": "HB 16",
+      "category": "Abortion",
+      "hinojosa_vote": "present_not_voting",
+      "record_number": "493",
+      "source_url": "https://journals.house.texas.gov/hjrnl/86r/pdf/86RDAY48FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=86R&Bill=HB16",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    },
+    {
+      "id": "85R-SB4-R496",
+      "session": "85R",
+      "date": "04/27/2017",
+      "bill": "SB 4",
+      "category": "Immigration & Border",
+      "hinojosa_vote": "no",
+      "record_number": "496",
+      "source_url": "https://journals.house.texas.gov/hjrnl/85r/pdf/85RDAY58FINAL.PDF",
+      "bill_history_url": "https://capitol.texas.gov/BillLookup/history.aspx?LegSess=85R&Bill=SB4",
+      "status": "VERIFIED_OFFICIAL_RECORD"
+    }
+  ],
   "vote_smart_vote_leads": [
     {
       "id": "votesmart-1",
@@ -499,6 +693,98 @@
       "verification_status": "PENDING_OFFICIAL_VERIFICATION",
       "key_vote": true,
       "verification_note": "Extracted from the Vote Smart HTML supplied for this project. Confirm against Texas Legislature Online or the certified Texas House Journal before upgrading to VERIFIED."
+    }
+  ],
+  "key_vote_methodology": {
+    "scope": "Curated, not exhaustive.",
+    "selection_criteria": [
+      "statewide public significance",
+      "controversial or high-salience policy",
+      "appearance in scorecards or secondary voting guides",
+      "unusual vote status or cross-cutting result",
+      "direct relevance to documented campaign positions",
+      "usefulness for comparing legislative action with public messaging"
+    ],
+    "verification_rule": "Official Texas House record controls. Secondary sources remain leads until cross-checked.",
+    "non_inference_rule": "Do not infer a yes/no vote from party, sponsorship, absence, attendance, committee membership, or voice votes."
+  },
+  "key_vote_research_queue": [
+    {
+      "session": "85R",
+      "bill": "HB 3859",
+      "topic": "Religious liberty / child welfare placements",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience 2017 social-policy legislation; verify individual House record before publication."
+    },
+    {
+      "session": "86R",
+      "bill": "SB 2",
+      "topic": "Property-tax reform",
+      "status": "RESEARCH_LEAD",
+      "reason": "Major 2019 tax legislation; identify final House record and Hinojosa vote."
+    },
+    {
+      "session": "86R",
+      "bill": "SB 22",
+      "topic": "Government transactions with abortion providers",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience reproductive-policy legislation; verify official House record."
+    },
+    {
+      "session": "87R",
+      "bill": "HB 3",
+      "topic": "Election integrity / election administration",
+      "status": "RESEARCH_LEAD",
+      "reason": "Major 2021 election bill; reconcile session actions and any individual Hinojosa record."
+    },
+    {
+      "session": "873",
+      "bill": "SB 6",
+      "topic": "Congressional redistricting",
+      "status": "RESEARCH_LEAD",
+      "reason": "Major redistricting legislation; verify House roll-call and member status."
+    },
+    {
+      "session": "88R",
+      "bill": "SB 15",
+      "topic": "College athletics and sex-based participation",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience gender/higher-education policy; verify official House vote."
+    },
+    {
+      "session": "89R",
+      "bill": "SB 12",
+      "topic": "Public school parental rights / instruction policy",
+      "status": "RESEARCH_LEAD",
+      "reason": "High-salience education/social-policy bill; verify whether Hinojosa cast an individual final vote or was absent."
+    },
+    {
+      "session": "892",
+      "bill": "HB 18",
+      "topic": "Campaign donations / legislative absence",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Vote Smart lead already displayed; locate certified House record."
+    },
+    {
+      "session": "892",
+      "bill": "SB 8",
+      "topic": "Restroom use in public buildings",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Vote Smart lead already displayed; locate certified House record."
+    },
+    {
+      "session": "892",
+      "bill": "HB 7",
+      "topic": "Abortion pills",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Two Vote Smart action records already displayed; determine exact official record numbers/stages."
+    },
+    {
+      "session": "892",
+      "bill": "HB 25",
+      "topic": "Ivermectin over-the-counter",
+      "status": "PENDING_OFFICIAL_VERIFICATION",
+      "reason": "Vote Smart lead already displayed; locate certified House record."
     }
   ]
 }
