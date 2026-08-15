@@ -12,3 +12,9 @@ Ballotpedia is used as a secondary research index; its HTML, scripts, styling, i
 ## Voting data update
 
 Loaded 5 individual Vote Smart vote records from the supplied saved HTML. These records are labeled `PENDING_OFFICIAL_VERIFICATION`; Texas Legislature Online / certified House Journals control promotion to `VERIFIED`.
+
+
+## 2026-08-15 repair pass
+- Vote data now has an inline fallback so records render when index.html is opened locally as well as when hosted.
+- Compare chronology now includes 2016, 2024, 2025 legislative-record leads, January 2026, and August 2026.
+- Visual palette uses colors observed in the supplied Gina campaign HTML (#0a0b0d, #1b1c1d, #0052ff, #e8ff77, #fbfbf8), while retaining an independent archival identity.
