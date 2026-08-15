@@ -230,6 +230,18 @@ footer{padding:35px 7vw;background:#111;color:#eee;font-size:12px;text-align:cen
 .sourceList a:hover{border-color:var(--blue)}
 footer{background:#0a0b0d}
 
-/* Resilient static compare/vote fallbacks: content remains visible even if JS is blocked. */
-.trail-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}.trail-grid>div{border:1px solid currentColor;padding:14px}.trail-grid p{margin:.5rem 0 0}.static-fallback{visibility:visible}
-@media(max-width:900px){.trail-grid{grid-template-columns:1fr}.tableWrap{overflow-x:auto;-webkit-overflow-scrolling:touch}.tableWrap table{min-width:1050px}}
+
+/* Reliability + contrast fixes: Aug. 15, 2026 */
+#compare.compare{background:#fbfbf8;color:#111}
+#compare.compare .lede,#compare.compare .subsection-title{color:#111}
+#compare.compare .tableWrap{background:#fff;border-color:#9e9588}
+#compare.compare th{background:var(--blue);color:#fff}
+#compare.compare td{background:#fff;color:#111}
+#compare.compare .trail-card{background:#fff;color:#111;border-color:#9e9588}
+#compare.compare .trail-card h3,#compare.compare .trail-stage p,#compare.compare .trail-stage a{color:#111}
+#compare.compare .trail-stage>span{background:var(--blue);color:#fff}
+#compare.compare .trail-line{border-color:var(--blue)}
+#voting .voteCard{color:#111}
+#voting .voteCard a{color:#111}
+#voting .voteMeta{color:#555}
+#voting .voteFallback{background:#fff;color:#111;padding:18px;border:1px solid #c6bdad}
